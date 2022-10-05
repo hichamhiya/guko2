@@ -1,9 +1,9 @@
 {
 	"version": "Dragon V3",
 
-"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
-"admobInterId": "ca-app-pub-3940256099942544/1033173712",
-"admobReward": "ca-app-pub-3940256099942544/5224354917",
+"admobbannerId": "ca-app-pub-4717046364682563/5850371408",
+"admobInterId": "ca-app-pub-4717046364682563/1890945097",
+"admobReward": "ca-app-pub-4717046364682563/2836608523",
 
 
 
@@ -23,7 +23,7 @@
 "unityreward": "Rewarded_Android",
 
 "adsSwitch explication ": "1: admob , 2:applovin 3:unity 4:auto",
-"adsSwitch": "3"
+"adsSwitch": "1"
 
 
 
